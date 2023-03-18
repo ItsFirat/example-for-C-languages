@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-
+         //Finds prime factors of non-prime numbers between 1 and 100
 	int primeCheck=0,i,j,k,n;
 
 	for (i=2; i<=100; i++)
