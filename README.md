@@ -7,4 +7,4 @@
 
 💞️ I’m looking to collaborate on system engineering
 
-📫 How to contact with me ... frtgny1@outlook.com
+📫 How to reach me ... frtgny1@outlook.com
