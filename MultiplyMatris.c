@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int Multiply(int[][], int[][]);
 int main()
 {
     int row, column,k;
