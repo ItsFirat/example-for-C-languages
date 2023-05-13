@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-void ReverseString(char *str);
+void ReverseString(char* );
 
 int main()
 {
